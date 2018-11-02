@@ -15,10 +15,13 @@ Notebooks for learning the [Descartes Labs API](https://github.com/descarteslabs
 
 [My Conda Install Script](setup.sh)
 
+## Authentication
+
+[https://docs.descarteslabs.com/authentication.html](https://docs.descarteslabs.com/authentication.html)
 
 ## Notebooks
 
-nbviewer links to view notebook
+nbviewer links to view notebooks:
 
 [nbviewer for Descartes_Labs_API_Notes.ipynb](http://nbviewer.jupyter.org/github/hollygrimm/descartes-labs-guide/blob/master/Descartes_Labs_API_Notes.ipynb)
 
